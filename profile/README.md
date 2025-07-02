@@ -1,12 +1,12 @@
 ## Welcome to [ControlPlane](https://control-plane.io/) ⚡☸️
 
-We are a cloud native and open source security consultancy. 
+Cloud native and open source security services, supply chain hardening, building security/policy/everything as code. 
 
-We build trust and assurance through DevSecOps architecture and automation, catalyzing organizational transformation with education and support.
+We build trust and assurance through DevSecOps architecture and automation, catalysing organisational transformation with education and support.
 
-Want to work with us? We promise nice people and interesting work! More about [working here](https://control-plane.io/working-here/).
+🛡️ Can we help with your security challenges? [Contact us](https://control-plane.io/contact) to discuss zero-trust systems and security.
 
-Can we help with your security challenges? [Contact us](https://control-plane.io/contact) to talk about zero trust systems and security.
+🧠 Want to work with us? We promise kind people and interesting work! More about [working here](https://control-plane.io/working-here/).
 
 <!--
 
